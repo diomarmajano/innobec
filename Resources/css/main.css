@@ -1,0 +1,33 @@
+body {
+    margin: 0; 
+    padding: 0;
+    background-image: url('../img/fondo.png');
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed;
+}
+
+
+.main{
+    display:flex;
+    margin-right: 40px;
+    margin-top: 50px;
+    justify-content: right;
+}
+
+button{
+    width: 180px;
+    height: 40px;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    background-color: #ffffff;
+    color: #005bb5;
+    font-weight:bold;
+}
+button:hover{
+    background-color: #3e5a9f;
+    color: #FFF;
+    cursor: pointer;
+    border:solid 1px #FFF;
+}

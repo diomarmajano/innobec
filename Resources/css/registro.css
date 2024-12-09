@@ -1,0 +1,86 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    padding: 10px 20px;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: right;
+}
+
+li {
+    margin-right: 25px;
+}
+
+a {
+    text-decoration: none;
+    color:#007aff;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 35px;
+    color: #333;
+}
+
+form {
+    background-color: #dbdada;
+    width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+form label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+form input[type="text"],
+form input[type="number"],
+form input[type="email"],
+form input[type="password"],
+form select {
+    width: 95%;
+    padding: 10px;
+    font-size: 12px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+form input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007aff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background-color: #0056b3;
+}

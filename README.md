@@ -46,4 +46,4 @@ luego se podra ingresar al sistema con las credenciales por defecto:
 - **Usuario**: innobec@innobec.cl
 - **password**: innobec
 
-los usuario en estado: 'innactivo' al momento de ingresar se le enviara una alerta de que su cuenta esta desactivada. 
+los usuario en estado: 'innactivo' al momento de ingresar se le enviara una alerta de que su cuenta esta desactivada. # innobec

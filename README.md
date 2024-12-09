@@ -46,4 +46,9 @@ luego se podra ingresar al sistema con las credenciales por defecto:
 - **Usuario**: innobec@innobec.cl
 - **password**: innobec
 
-los usuario en estado: 'innactivo' al momento de ingresar se le enviara una alerta de que su cuenta esta desactivada. # innobec
+los usuario en estado: 'innactivo' al momento de ingresar se le enviara una alerta de que su cuenta esta desactivada. 
+
+## **IMPORTANTE**
+
+El archivo global.php dentro de la carpeta Config, contiene las definiciones de las variables necesarias
+para el buen funcionamiento de las rutas y la base de datos, configurar las variables si es necesario para lograr la conexion a base de datos. 

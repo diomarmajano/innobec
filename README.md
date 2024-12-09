@@ -33,7 +33,7 @@ Para correr el proyecto es necesario: tener instalado lo siguiente:
 
 1. Clona este repositorio en tu servidor local:
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/diomarmajano/innobec.git
 
 ## **Otras instrucciones**
 se deben ejecutar los archivos de la carpeta Database en el siguiente orden: 

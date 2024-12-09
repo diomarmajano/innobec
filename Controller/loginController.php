@@ -1,7 +1,7 @@
 <?php
 session_start();
 require_once dirname(__DIR__) . '/Config/global.php';
-require_once dirname(__DIR__ ). '/Models/loginModel.php';
+require_once dirname(__DIR__ ). '../../Models/loginModel.php';
 
 class Login
 {

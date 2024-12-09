@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ .'../../Models/editarModel.php';
+require_once 'conexion.php';
 
 class EditarModel {
     private $conexion;

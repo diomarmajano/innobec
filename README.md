@@ -32,6 +32,8 @@ Para correr el proyecto es necesario: tener instalado lo siguiente:
 ## **Configuración del Proyecto**
 
 1. Clona este repositorio en tu servidor local:
+para apache crear la carpeta en C: xammp/htdocs
+   se debe crear una carpeta con el nombre innobec y clonar el repositorio
    ```bash
    git clone https://github.com/diomarmajano/innobec.git
 

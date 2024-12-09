@@ -1,5 +1,5 @@
 <?php 
-require_once __DIR__ .'../../Models/usuariosModel.php';
+require_once 'conexion.php';
 
 class ObtenerUsuarios{
     private $conexion;

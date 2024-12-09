@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ .'../../Models/conexion.php';
+require_once 'conexion.php';
 
 class ObtenerRegiones {
     private $conexion;
